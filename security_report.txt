@@ -1,0 +1,10 @@
+Scan Report - 2026-10-19 13:50:30.075542
+--------------------------------------------------
+https://google.com -> SECURE | SSL: 63 days | Status: 200
+  VirusTotal: {'malicious': 1, 'suspicious': 0, 'undetected': 30, 'harmless': 62, 'timeout': 0}
+https://facebook.com -> SECURE | SSL: 8 days | Status: 200
+  VirusTotal: {'malicious': 0, 'suspicious': 0, 'undetected': 31, 'harmless': 62, 'timeout': 0}
+https://youtube.com -> SECURE | SSL: 63 days | Status: 200
+  VirusTotal: {'malicious': 0, 'suspicious': 0, 'undetected': 33, 'harmless': 60, 'timeout': 0}
+http://neverssl.com -> INSECURE | SSL: 0 days | Status: 0
+https://testphp.vulnweb.com -> INSECURE | SSL: 0 days | Status: 0
